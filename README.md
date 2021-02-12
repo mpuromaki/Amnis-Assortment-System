@@ -20,10 +20,10 @@ These boxes are the baseline for height. Z10 means 100%, which are designed to f
 Raaco Assorter 55 cases. Z10 boxes are plain boxes with angled surface for name
 sticker and box removal. See compatibility below.
 
-Sizes: Normal grid, sizes from 1x1 onwards.  
-Height: 47mm.  
-Naming example: 3x1z10-box.stl  
-  - 3 y-units long, 1 x-unit wide. Z10 series. Plain box.  
+- Sizes: Normal grid, sizes from 1x1 onwards.  
+- Height: 47mm.  
+- Naming example: 3x1z10-box.stl  
+3 y-units long, 1 x-unit wide. Z10 series. Plain box.  
 
 ### Z06 (Lidded)
 
@@ -33,15 +33,15 @@ found on Z10 series. The lids also have normal grid, which allows them to be use
 for example, as standalone items on drawers. The lids also have angled feature which
 allows them to be easily lifted apart from boxes below.
 
-Sizes: Normal grid.  
-Height: 47mm with combined box & lid.  
-  - Boxes: 29mm.  
-  - Lids: 20mm.  
-Naming example: 3x2z06-box.stl  
-  - 3 y-units long, 2 x-unit wide. Z06 series box.  
-Naming example: 3x2z06-lid-drills-jobber-6to1by05.stl  
-  - 3 y-units long, 2 x-unit wide. Z06 series lid. Meant to fit "jobber" (standard)
-  size drills from 6mm to 1mm with 0.5mm step.  
+- Sizes: Normal grid.  
+- Height: 47mm with combined box & lid.  
+  (Boxes: 29mm.)  
+  (Lids: 20mm.)  
+- Naming example: 3x2z06-box.stl  
+3 y-units long, 2 x-units wide. Z06 series box.  
+- Naming example: 3x2z06-lid-drills-jobber-6to1by05.stl  
+3 y-units long, 2 x-units wide. Z06 series lid. Meant to fit "jobber" (standard)
+size drills from 6mm to 1mm with 0.5mm step.  
 
 #### Acknowledgements
 
@@ -101,9 +101,9 @@ Please do not use "Amnis" on your own parts.
 If you note problems with these models, please create an issue and I might look at it..
 
 
-# About commits
+#### About commits
 
-#### New part
+##### New part
 
 ```md
 🚀 feat (context): what's the part?
@@ -113,7 +113,7 @@ Closer description. Interesting facts about the part.
 (References to issues etc) <- optional
 ```
 
-#### Fixed part
+##### Fixed part
 
 ```md
 🔨 fix (context): what is fixed?
@@ -123,7 +123,7 @@ Closer description. Why was this fix necessary?
 (References to issues etc) <- optional
 ```
 
-#### Documentation change
+##### Documentation change
 
 ```md
 📄 docs (context): What was done to documentation?
@@ -133,7 +133,7 @@ Closer description. Why was the documentation change necessary?
 (References to issues etc) <- optional
 ```
 
-#### Removal of parts and/or documents
+##### Removal of parts and/or documents
 
 ```md
 ❌ cleanup (context): What was removed / cleaned?
